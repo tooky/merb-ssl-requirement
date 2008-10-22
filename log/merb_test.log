@@ -1,0 +1,421 @@
+Mon, 20 Oct 2008 21:21:59 GMT  ~  info  ~  Logfile created
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>4.3e-05, :action_time=>0.000233, :after_filters_time=>1.5e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>3.5e-05, :action_time=>0.000245, :after_filters_time=>1.6e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>1.8e-05, :action_time=>7.7e-05, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"c", "https"=>"nil", "controller"=>"secure"}
+ ~ {:before_filters_time=>3.4e-05, :action_time=>0.000231, :after_filters_time=>1.6e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>4.8e-05, :action_time=>0.000105, :after_filters_time=>6.0e-06}
+ ~ Params: {"action"=>"c", "https"=>"nil", "controller"=>"secure"}
+ ~ {:before_filters_time=>4.2e-05, :action_time=>0.000236, :after_filters_time=>1.7e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>4.7e-05, :action_time=>0.000103, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"c", "https"=>"nil", "controller"=>"secure"}
+ ~ {:before_filters_time=>3.4e-05, :action_time=>0.000239, :after_filters_time=>1.6e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>4.9e-05, :action_time=>0.034579, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"d", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>5.7e-05, :action_time=>0.000123, :after_filters_time=>7.0e-06}
+ ~ Params: {"action"=>"c", "https"=>"nil", "controller"=>"secure"}
+ ~ {:before_filters_time=>3.4e-05, :action_time=>0.000241, :after_filters_time=>1.5e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>4.8e-05, :action_time=>0.033198, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"d", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>5.5e-05, :action_time=>0.000123, :after_filters_time=>7.0e-06}
+ ~ Params: {"action"=>"c", "https"=>"nil", "controller"=>"secure"}
+ ~ {:before_filters_time=>3.4e-05, :action_time=>0.000243, :after_filters_time=>1.6e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>4.8e-05, :action_time=>0.034799, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"d", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>5.7e-05, :action_time=>0.000126, :after_filters_time=>7.0e-06}
+ ~ Params: {"action"=>"c", "https"=>"nil", "controller"=>"secure"}
+ ~ {:before_filters_time=>3.3e-05, :action_time=>0.000245, :after_filters_time=>1.6e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>4.7e-05, :action_time=>0.034109, :after_filters_time=>6.0e-06}
+ ~ Params: {"action"=>"d", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>5.5e-05, :action_time=>0.000124, :after_filters_time=>8.0e-06}
+ ~ Params: {"action"=>"c", "https"=>"nil", "controller"=>"secure"}
+ ~ {:after_filters_time=>1.7e-05, :before_filters_time=>4.1e-05, :action_time=>0.000243}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:after_filters_time=>6.0e-06, :before_filters_time=>4.8e-05, :action_time=>0.000105}
+ ~ Params: {"action"=>"d", "controller"=>"secure"}
+ ~ {:after_filters_time=>7.0e-06, :before_filters_time=>3.0e-05, :action_time=>0.000106}
+ ~ Params: {"action"=>"c", "https"=>"nil", "controller"=>"secure"}
+ ~ {:after_filters_time=>1.6e-05, :before_filters_time=>4.1e-05, :action_time=>0.000244}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:after_filters_time=>5.0e-06, :before_filters_time=>4.8e-05, :action_time=>0.000104}
+ ~ Params: {"action"=>"d", "controller"=>"secure"}
+ ~ {:after_filters_time=>7.0e-06, :before_filters_time=>3.0e-05, :action_time=>0.000105}
+ ~ Params: {"action"=>"c", "https"=>"nil", "controller"=>"secure"}
+ ~ {:after_filters_time=>1.3e-05, :before_filters_time=>3.4e-05, :action_time=>0.000229}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:after_filters_time=>6.0e-06, :before_filters_time=>4.6e-05, :action_time=>0.000101}
+ ~ Params: {"action"=>"d", "controller"=>"secure"}
+ ~ {:after_filters_time=>4.0e-06, :before_filters_time=>1.8e-05, :action_time=>7.3e-05}
+ ~ Params: {"action"=>"c", "https"=>"nil", "controller"=>"secure"}
+ ~ {:before_filters_time=>3.5e-05, :action_time=>0.000244, :after_filters_time=>1.7e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>7.0e-05, :action_time=>0.000151, :after_filters_time=>8.0e-06}
+ ~ Params: {"action"=>"d", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>4.0e-05, :action_time=>9.6e-05, :after_filters_time=>6.0e-06}
+ ~ Params: {"action"=>"c", "https"=>"nil", "controller"=>"secure"}
+ ~ {:before_filters_time=>3.4e-05, :action_time=>0.000243, :after_filters_time=>1.7e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>7.1e-05, :action_time=>0.000151, :after_filters_time=>8.0e-06}
+ ~ Params: {"action"=>"d", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>4.0e-05, :action_time=>9.9e-05, :after_filters_time=>6.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ {:before_filters_time=>3.3e-05, :action_time=>0.000248, :after_filters_time=>1.6e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>5.8e-05, :action_time=>0.000138, :after_filters_time=>8.0e-06}
+ ~ Params: {"action"=>"d", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>4.2e-05, :action_time=>0.000108, :after_filters_time=>6.0e-06}
+ ~ Params: {"HTTPS"=>"on", "action"=>"a", "controller"=>"secure"}
+ ~ {:before_filters_time=>3.5e-05, :action_time=>0.000224, :after_filters_time=>1.3e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>4.7e-05, :action_time=>0.000106, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"d", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>5.2e-05, :action_time=>0.000111, :after_filters_time=>5.0e-06}
+ ~ Params: {"HTTPS"=>"", "action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>3.7e-05, :action_time=>0.000245, :after_filters_time=>1.5e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>4.9e-05, :action_time=>0.000107, :after_filters_time=>5.0e-06}
+ ~ Params: {"HTTPS"=>"", "action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>3.6e-05, :action_time=>0.000604, :after_filters_time=>1.7e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>4.8e-05, :action_time=>0.001284, :after_filters_time=>8.0e-06}
+ ~ Params: {"HTTPS"=>"", "action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>3.7e-05, :action_time=>0.000361, :after_filters_time=>1.5e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>4.8e-05, :action_time=>0.000197, :after_filters_time=>7.0e-06}
+ ~ Params: {"HTTPS"=>"", "action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>0.000124, :action_time=>0.000327, :after_filters_time=>1.5e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>0.000187, :action_time=>0.000245, :after_filters_time=>6.0e-06}
+ ~ Params: {"HTTPS"=>"", "action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>3.7e-05, :action_time=>0.000237, :after_filters_time=>1.3e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>4.9e-05, :action_time=>0.000104, :after_filters_time=>6.0e-06}
+ ~ Params: {"HTTPS"=>"", "action"=>"a", "controller"=>"secure"}
+ ~ {:before_filters_time=>3.6e-05, :action_time=>0.000242, :after_filters_time=>1.5e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>4.6e-05, :action_time=>0.00011, :after_filters_time=>6.0e-06}
+ ~ Params: {"HTTPS"=>"", "action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>5.3e-05, :action_time=>0.000257, :after_filters_time=>1.3e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>0.000148, :action_time=>0.000206, :after_filters_time=>5.0e-06}
+ ~ Params: {"HTTPS"=>"", "action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>5.9e-05, :action_time=>0.000354, :after_filters_time=>1.4e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>0.000155, :action_time=>0.000225, :after_filters_time=>5.0e-06}
+ ~ Params: {"HTTPS"=>"", "action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>0.000828, :action_time=>0.001043, :after_filters_time=>1.7e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>0.000349, :action_time=>0.000418, :after_filters_time=>6.0e-06}
+ ~ Params: {"HTTPS"=>"", "action"=>"a", "controller"=>"secure"}
+ ~ {:before_filters_time=>6.6e-05, :action_time=>0.000388, :after_filters_time=>1.6e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>0.000337, :action_time=>0.000397, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"c", "HTTPS"=>"", "controller"=>"secure"}
+ ~ {:after_filters_time=>1.7e-05, :before_filters_time=>6.7e-05, :action_time=>0.000377}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:after_filters_time=>6.0e-06, :before_filters_time=>0.000233, :action_time=>0.000298}
+ ~ Params: {"action"=>"c", "HTTPS"=>"", "controller"=>"secure"}
+ ~ {:after_filters_time=>6.0e-06, :before_filters_time=>5.1e-05, :action_time=>0.000211}
+ ~ Params: {"action"=>"c", "HTTPS"=>"", "controller"=>"secure"}
+ ~ {:before_filters_time=>6.7e-05, :action_time=>0.00026, :after_filters_time=>1.4e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>9.1e-05, :action_time=>0.00015, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"a", "HTTPS"=>"", "controller"=>"secure"}
+ ~ {:before_filters_time=>5.1e-05, :action_time=>0.000119, :after_filters_time=>6.0e-06}
+ ~ Params: {"action"=>"c", "HTTPS"=>"", "controller"=>"secure"}
+ ~ {:before_filters_time=>6.8e-05, :action_time=>0.000365, :after_filters_time=>1.4e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>0.000229, :action_time=>0.000288, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"a", "HTTPS"=>"", "controller"=>"secure"}
+ ~ {:before_filters_time=>5.2e-05, :action_time=>0.000267, :after_filters_time=>0.000138}
+ ~ Params: {"action"=>"c", "HTTPS"=>"", "controller"=>"secure"}
+ ~ {:before_filters_time=>0.000214, :action_time=>0.000408, :after_filters_time=>1.6e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>0.000335, :action_time=>0.000394, :after_filters_time=>6.0e-06}
+ ~ Params: {"action"=>"a", "HTTPS"=>"", "controller"=>"secure"}
+ ~ {:before_filters_time=>0.000178, :action_time=>0.000527, :after_filters_time=>8.0e-06}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>6.9e-05, :action_time=>0.000282, :after_filters_time=>1.8e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>9.2e-05, :action_time=>0.000157, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ {:before_filters_time=>5.1e-05, :action_time=>0.000403, :after_filters_time=>1.0e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>6.5e-05, :action_time=>0.00036, :after_filters_time=>1.4e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>0.000227, :action_time=>0.000285, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ {:before_filters_time=>5.1e-05, :action_time=>0.000579, :after_filters_time=>1.0e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>6.6e-05, :action_time=>0.000362, :after_filters_time=>1.5e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>0.00023, :action_time=>0.000289, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>0.00029, :action_time=>0.000482, :after_filters_time=>1.5e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>0.000335, :action_time=>0.000395, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ {:before_filters_time=>0.000575, :action_time=>0.000726, :after_filters_time=>1.0e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>7.3e-05, :action_time=>0.0004, :after_filters_time=>1.5e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>0.00025, :action_time=>0.000309, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ {:before_filters_time=>5.8e-05, :action_time=>0.000297, :after_filters_time=>0.000104}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>0.000348, :action_time=>0.000543, :after_filters_time=>1.5e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>0.000562, :action_time=>0.000619, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ {:before_filters_time=>0.000346, :action_time=>0.000563, :after_filters_time=>1.0e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>0.000206, :action_time=>0.000405, :after_filters_time=>1.7e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>0.000334, :action_time=>0.000402, :after_filters_time=>1.3e-05}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>0.000288, :action_time=>0.000557, :after_filters_time=>7.7e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>0.000214, :action_time=>0.000413, :after_filters_time=>1.7e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>9.1e-05, :action_time=>0.000147, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>0.00034, :action_time=>0.000544, :after_filters_time=>1.0e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>9.5e-05, :action_time=>0.000413, :after_filters_time=>0.000131}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>0.000331, :action_time=>0.000394, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>9.6e-05, :action_time=>0.000177, :after_filters_time=>7.0e-06}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>7.5e-05, :action_time=>0.00039, :after_filters_time=>1.6e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>0.000258, :action_time=>0.000325, :after_filters_time=>6.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>0.000387, :action_time=>0.000465, :after_filters_time=>7.0e-06}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>5.4e-05, :action_time=>0.000346, :after_filters_time=>1.4e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>0.000135, :action_time=>0.000196, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>0.000139, :action_time=>0.00021, :after_filters_time=>6.0e-06}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>0.000211, :action_time=>0.000405, :after_filters_time=>1.5e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>0.000312, :action_time=>0.000371, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>0.000318, :action_time=>0.000388, :after_filters_time=>6.0e-06}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>6.3e-05, :action_time=>0.000263, :after_filters_time=>1.5e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>7.6e-05, :action_time=>0.000134, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>7.9e-05, :action_time=>0.000148, :after_filters_time=>6.0e-06}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>7.1e-05, :action_time=>0.000264, :after_filters_time=>1.5e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>0.000104, :action_time=>0.00016, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>0.000106, :action_time=>0.000172, :after_filters_time=>6.0e-06}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>0.000172, :action_time=>0.000454, :after_filters_time=>7.4e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:before_filters_time=>0.000295, :action_time=>0.000371, :after_filters_time=>7.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ {:before_filters_time=>0.000189, :action_time=>0.000265, :after_filters_time=>6.0e-06}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>2.5e-05, :action_time=>0.000246, :after_filters_time=>1.5e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>1.3e-05, :action_time=>0.000148, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ {:before_filters_time=>2.4e-05, :action_time=>9.2e-05, :after_filters_time=>6.0e-06}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>2.5e-05, :action_time=>0.000226, :after_filters_time=>1.5e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>1.2e-05, :action_time=>7.6e-05, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ {:before_filters_time=>2.2e-05, :action_time=>9.3e-05, :after_filters_time=>6.0e-06}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>2.8e-05, :action_time=>0.000271, :after_filters_time=>1.7e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>1.3e-05, :action_time=>7.7e-05, :after_filters_time=>6.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ Redirecting to: https://localhost/ (302)
+ ~ {:before_filters_time=>5.9e-05, :action_time=>0.000136, :after_filters_time=>7.0e-06}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>2.9e-05, :action_time=>0.000229, :after_filters_time=>1.5e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>1.2e-05, :action_time=>6.6e-05, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ Redirecting to: https://localhost/ (302)
+ ~ {:before_filters_time=>6.1e-05, :action_time=>0.000129, :after_filters_time=>7.0e-06}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>2.9e-05, :action_time=>0.00023, :after_filters_time=>1.4e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>1.4e-05, :action_time=>7.1e-05, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ Redirecting to: https://localhost/ (302)
+ ~ {:before_filters_time=>0.000161, :action_time=>0.000237, :after_filters_time=>7.0e-06}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>2.8e-05, :action_time=>0.000232, :after_filters_time=>1.5e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>1.1e-05, :action_time=>6.7e-05, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ Redirecting to: https://localhost/ (302)
+ ~ {:before_filters_time=>6.0e-05, :action_time=>0.000128, :after_filters_time=>6.0e-06}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>2.8e-05, :action_time=>0.000236, :after_filters_time=>1.5e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>1.1e-05, :action_time=>6.7e-05, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ Redirecting to: https://localhost/ (302)
+ ~ {:action_time=>0.000135, :after_filters_time=>7.0e-06}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>2.8e-05, :action_time=>0.000234, :after_filters_time=>1.5e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>1.1e-05, :action_time=>6.7e-05, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ Redirecting to: https://localhost/ (302)
+ ~ {:before_filters_time=>6.1e-05, :action_time=>0.000129, :after_filters_time=>6.0e-06}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>3.1e-05, :action_time=>0.000255, :after_filters_time=>1.6e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>1.5e-05, :action_time=>7.3e-05, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ Redirecting to: https://localhost/ (302)
+ ~ {:action_time=>0.000131, :after_filters_time=>7.0e-06}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>2.8e-05, :action_time=>0.000231, :after_filters_time=>1.5e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>1.2e-05, :action_time=>6.9e-05, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ Redirecting to: https://localhost/ (302)
+ ~ {:action_time=>0.000132, :after_filters_time=>7.0e-06}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>2.6e-05, :action_time=>0.000306, :after_filters_time=>1.4e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>1.2e-05, :action_time=>7.4e-05, :after_filters_time=>6.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ Redirecting to: https://localhost/ (302)
+ ~ {:action_time=>0.000124, :after_filters_time=>7.0e-06}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>2.7e-05, :action_time=>0.000271, :after_filters_time=>1.8e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>1.3e-05, :action_time=>7.1e-05, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ Redirecting to: https://localhost/ (302)
+ ~ {:action_time=>0.000137, :after_filters_time=>8.0e-06}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>2.4e-05, :action_time=>0.000221, :after_filters_time=>1.4e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>1.2e-05, :action_time=>9.0e-05, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ Redirecting to: https://localhost/ (302)
+ ~ {:action_time=>0.000127, :after_filters_time=>6.0e-06}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>3.0e-05, :action_time=>0.000244, :after_filters_time=>1.5e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>1.3e-05, :action_time=>7.5e-05, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ Redirecting to: https://localhost/ (302)
+ ~ {:action_time=>0.000126, :after_filters_time=>7.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ {:before_filters_time=>1.7e-05, :action_time=>8.0e-05, :after_filters_time=>4.0e-06}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>3.0e-05, :action_time=>0.000268, :after_filters_time=>1.3e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>2.2e-05, :action_time=>9.8e-05, :after_filters_time=>6.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ Redirecting to: https://localhost/ (302)
+ ~ {:action_time=>0.000133, :after_filters_time=>8.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ {:before_filters_time=>1.8e-05, :action_time=>7.8e-05, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>2.8e-05, :action_time=>0.000833, :after_filters_time=>0.000476}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>1.5e-05, :action_time=>8.4e-05, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ Redirecting to: https://localhost/ (302)
+ ~ {:action_time=>0.000132, :after_filters_time=>7.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ {:before_filters_time=>1.9e-05, :action_time=>9.0e-05, :after_filters_time=>1.2e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>2.8e-05, :action_time=>0.000261, :after_filters_time=>2.3e-05}
+ ~ Params: {"action"=>"c", "controller"=>"secure"}
+ ~ {:before_filters_time=>1.8e-05, :action_time=>9.1e-05, :after_filters_time=>7.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ Redirecting to: https://localhost/ (302)
+ ~ {:action_time=>0.000135, :after_filters_time=>8.0e-06}
+ ~ Params: {"action"=>"a", "controller"=>"secure"}
+ ~ {:before_filters_time=>1.9e-05, :action_time=>7.9e-05, :after_filters_time=>5.0e-06}
+ ~ Params: {"action"=>"d", "controller"=>"secure"}
+ ~ {:before_filters_time=>2.3e-05, :action_time=>9.1e-05, :after_filters_time=>6.0e-06}
+ ~ Params: {"action"=>"d", "controller"=>"secure"}
+ ~ Redirecting to: http://localhost/ (302)
+ ~ {:action_time=>0.000109, :after_filters_time=>6.0e-06}
