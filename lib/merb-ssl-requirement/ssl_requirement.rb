@@ -61,18 +61,11 @@ module SslRequirement
   private
     def ensure_proper_protocol
       return true if ssl_allowed?
-
-      # puts 'ssl not allowed'
       
       if ssl_required? && !request.ssl?
         throw :halt, redirect("https://" + request.host + request.uri)
-        # flash.keep
-        # return false
       elsif request.ssl? && !ssl_required?
         throw :halt, redirect("http://" + request.host + request.uri)
-        # redirect "http://" + request.host + request.uri
-        # flash.keep
-        return false
       end
     end
 end
