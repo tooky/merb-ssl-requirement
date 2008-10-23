@@ -4,12 +4,12 @@ require 'rake/gempackagetask'
 require 'merb-core'
 require 'merb-core/tasks/merb'
 
-GEM_NAME = "."
+GEM_NAME = "merb-ssl-requirement"
 GEM_VERSION = "0.0.1"
-AUTHOR = "Your Name"
-EMAIL = "Your Email"
-HOMEPAGE = "http://merbivore.com/"
-SUMMARY = "Merb plugin that provides ..."
+AUTHOR = "Steve Tooke"
+EMAIL = "steve.tooke@gmail.com"
+SUMMARY = "Merb plugin that provides ssl_requirement from rails"
+HOMEPAGE = "http://www.merbivore.com"
 
 spec = Gem::Specification.new do |s|
   s.rubyforge_project = 'merb'
