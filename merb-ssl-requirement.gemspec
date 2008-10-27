@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Steve Tooke"]
-  s.date = %q{2008-10-23}
+  s.date = %q{2008-10-27}
   s.description = %q{Merb plugin that provides ssl_requirement from rails}
   s.email = %q{steve.tooke@gmail.com}
   s.extra_rdoc_files = ["README", "LICENSE", "TODO"]
@@ -21,11 +21,11 @@ Gem::Specification.new do |s|
     s.specification_version = 2
 
     if current_version >= 3 then
-      s.add_runtime_dependency(%q<merb>, [">= 0.9.9"])
+      s.add_runtime_dependency(%q<merb-core>, [">= 0.9.10"])
     else
-      s.add_dependency(%q<merb>, [">= 0.9.9"])
+      s.add_dependency(%q<merb-core>, [">= 0.9.10"])
     end
   else
-    s.add_dependency(%q<merb>, [">= 0.9.9"])
+    s.add_dependency(%q<merb-core>, [">= 0.9.10"])
   end
 end
